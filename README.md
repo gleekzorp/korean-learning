@@ -46,6 +46,9 @@ These are some misc things that I have been building and eventually I will move 
 - Korean Dictation 25-02-22: https://wordsearchlabs.com/view/818104
 
 ## Crosswords
+
+In case these links stop working I have saved a pdf version of all the crosswords in this repo in the [crosswords](./crosswords) folder
+
 - Korean Dictation 25-02-08 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1710/17105712.704.html
 - Korean Dictation 25-02-15 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1619/16193127.275.html
 - Korean Dictation All Words 25-02-15 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1711/17110220.445.html
