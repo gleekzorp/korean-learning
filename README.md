@@ -36,9 +36,10 @@ These are some misc things that I have been building and eventually I will move 
 - Korean Dictation 25-02-08: https://wordsearchlabs.com/view/808198
 - Korean Dictation 25-02-15: https://wordsearchlabs.com/view/806578
 - Korean Dictation All Words up to 25-02-15: https://wordsearchlabs.com/view/808202
+- Korean Dictation 25-02-22: https://wordsearchlabs.com/view/818104
 
 ## Crosswords
-- Korean Dictation All Words 25-02-15 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1711/17110220.445.html
 - Korean Dictation 25-02-08 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1710/17105712.704.html
 - Korean Dictation 25-02-15 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1619/16193127.275.html
-- Korean Dictation 25-02-15: https://www.armoredpenguin.com/crossword/Data/2025.02/1616/16161611.409.html
+- Korean Dictation All Words 25-02-15 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/1711/17110220.445.html
+- Korean Dictation 25-02-22 (size 80): https://www.armoredpenguin.com/crossword/Data/2025.02/2422/24225525.937.html
