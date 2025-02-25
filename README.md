@@ -29,6 +29,13 @@ This is a document to help keep my notes for my Korean Language Learning along w
 - https://wordsearchlabs.com/
 - https://www.armoredpenguin.com/crossword
 
+## Story Reading and Watching Youtube
+Here are some good resources for reading and watching youtube videos.
+- https://koreanstorylab.com/
+- https://ttmikstories.app/
+- https://migaku.com/
+- https://kimchi-reader.app/
+
 ## Misc
 These are some misc things that I have been building and eventually I will move them somewhere else or even just make my own app to make and save them
 
